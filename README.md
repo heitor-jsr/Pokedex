@@ -33,6 +33,10 @@ To run a single test, run one of the following commands
 
 ```bash
   npm test 01.Pokedex
-  npm test 02.Pokemon
-  npm test 03.RenderList
+ ```
+ ```bash
+ npm test 02.Pokemon
+ ```
+ bash```
+ npm test 03.RenderList
 ```
