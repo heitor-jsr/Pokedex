@@ -32,7 +32,7 @@ To run tests, run the following command
 To run a single test, run one of the following commands
 
 ```bash
-  npm test 01.Pokedex
+npm test 01.Pokedex
  ```
  ```bash
  npm test 02.Pokemon
